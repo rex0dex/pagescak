@@ -182,6 +182,36 @@ permalink: /capstone/poway-library-2026-27/
 
 ---
 
+## Milestones & goals
+
+> Early-quarter priorities for picking up the 2025–26 prototype and moving it toward a stable release.
+
+<div class="ocs__grid ocs__grid--card">
+    <div class="ocs__grid-cell ocs__grid-cell--accent">
+        <strong>Milestone 1 · Onboarding</strong>
+        <p>Stand up the inherited frontend and backend locally, audit existing features, and log gaps against the Friends of the Poway Library's priorities.</p>
+    </div>
+
+    <div class="ocs__grid-cell">
+        <strong>Milestone 2 · Core reliability</strong>
+        <p>Stabilize the bookstore catalog search, events calendar, and newsletter archive so they work consistently across devices.</p>
+    </div>
+
+    <div class="ocs__grid-cell ocs__grid-cell--accent">
+        <strong>Milestone 3 · Support pathways</strong>
+        <p>Complete the donation flow, refine the volunteer signup process, and confirm contact tools reach the right organizers.</p>
+    </div>
+
+    <div class="ocs__grid-cell">
+        <strong>Milestone 4 · Polish and handoff</strong>
+        <p>Finish outstanding games and profile features, document the codebase, and prepare the project for the next student team.</p>
+    </div>
+</div>
+
+<br>
+
+---
+
 ## Project handoff
 
 > The 2026–27 capstone starts from the work and documentation created by the previous student team.

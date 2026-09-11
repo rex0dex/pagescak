@@ -309,7 +309,7 @@ document.addEventListener('DOMContentLoaded', function(){
        </a>
        <div>
            <h3><a href="{{ '/capstone/poway-library-2026-27/' | relative_url }}">Friends of the Poway Library 2026–27</a></h3>
-           <p>A CSP capstone continuing the previous Friends of the Poway Library prototype with a searchable bookstore catalog, events and newsletters, volunteer and donation pathways, community history, profiles, and library-themed games.</p>
+           <p>A CSP capstone continuing the previous Friends of the Poway Library prototype, surfacing a searchable bookstore catalog, events and newsletters, volunteer and donation pathways, community history, profiles, and library-themed games.</p>
            <p>Team: Arjun Ganesh — Scrum Master; Nathan Trieu — Developer 1; Raadin Ansari — Developer 2</p>
        </div>
    </div>

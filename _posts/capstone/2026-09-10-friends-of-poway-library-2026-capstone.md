@@ -14,7 +14,7 @@ permalink: /capstone/poway-library-2026-27/
 > **Student capstone · In development.** This project continues the 2025–26 Friends of the Poway Library prototype. It is a student-built concept and is not the official Friends of the Poway Library or San Diego County Library website.
 
 <div class="ocs__grid ocs__grid--standard cols-2">
-    <div class="ocs__grid-cell ocs__grid-cell--header">Friends of the Poway Library · 2026–2027</div>
+    <div class="ocs__grid-cell ocs__grid-cell--header">Friends of the Poway Library · 2026–27</div>
 
     <div class="ocs__grid-cell ocs__grid-cell--accent">
         <strong>One useful home for the library community</strong>
@@ -61,7 +61,7 @@ permalink: /capstone/poway-library-2026-27/
 
     <div class="ocs__grid-cell">
         <strong>03 · Participate and support</strong>
-        <p>Make volunteer opportunities, contact information, and the planned donation flow easier to find and use.</p>
+        <p>Surface volunteer opportunities, contact information, and the planned donation flow so they are easy to find and use.</p>
     </div>
 
     <div class="ocs__grid-cell ocs__grid-cell--accent">

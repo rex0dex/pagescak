@@ -281,3 +281,25 @@ permalink: /capstone/poway-library-2026-27/
     <a class="ocs__btn large iridescent" href="https://github.com/Boolean-Boyz/bb-flask" target="_blank" rel="noreferrer noopener">View Backend Repository</a>
     <a class="ocs__btn large iridescent" href="{{ '/capstone/poway-library/' | relative_url }}">View 2025–26 Project Page</a>
 </div>
+
+<br>
+
+---
+
+## Get involved
+
+> This capstone is a student concept, not an official channel — reach the real organization directly for events, volunteering, or donations today.
+
+<div class="ocs__grid ocs__grid--standard cols-2">
+    <div class="ocs__grid-cell ocs__grid-cell--header">Connect with the Friends of the Poway Library</div>
+
+    <div class="ocs__grid-cell ocs__grid-cell--accent">
+        <strong>Visit or volunteer now</strong>
+        <p>Until the online donation and volunteer flows ship, the fastest way to help is through the Friends' own site and the Poway branch library.</p>
+    </div>
+
+    <div class="ocs__grid-cell">
+        <strong>Follow this capstone</strong>
+        <p>Check back on this page for milestone updates, or watch the <a href="https://github.com/Boolean-Boyz/bb-pages" target="_blank" rel="noreferrer noopener">frontend</a> and <a href="https://github.com/Boolean-Boyz/bb-flask" target="_blank" rel="noreferrer noopener">backend</a> repositories for progress.</p>
+    </div>
+</div>

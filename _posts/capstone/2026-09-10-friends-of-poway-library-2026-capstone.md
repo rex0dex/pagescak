@@ -8,6 +8,7 @@ description: >
   with a searchable bookstore catalog, events, newsletters, volunteer and
   donation pathways, community history, and library-themed games.
 categories: [Capstone]
+tags: [poway-library, books, events, volunteering, csp]
 permalink: /capstone/poway-library-2026-27/
 ---
 
@@ -205,6 +206,34 @@ permalink: /capstone/poway-library-2026-27/
     <div class="ocs__grid-cell">
         <strong>Milestone 4 · Polish and handoff</strong>
         <p>Finish outstanding games and profile features, document the codebase, and prepare the project for the next student team.</p>
+    </div>
+</div>
+
+<br>
+
+---
+
+## Risks & open questions
+
+<div class="ocs__grid ocs__grid--card">
+    <div class="ocs__grid-cell">
+        <strong>Donation processing</strong>
+        <p>The donation flow needs a decision on a payment processor and how the nonprofit wants transactions reconciled before it can go live.</p>
+    </div>
+
+    <div class="ocs__grid-cell ocs__grid-cell--accent">
+        <strong>Catalog data freshness</strong>
+        <p>The bookstore catalog is only useful if inventory stays current — the team needs a sustainable update process the Friends volunteers can maintain.</p>
+    </div>
+
+    <div class="ocs__grid-cell">
+        <strong>Inherited code quality</strong>
+        <p>Parts of the 2025–26 prototype may need refactoring before new features are added; scope and priorities are still being confirmed.</p>
+    </div>
+
+    <div class="ocs__grid-cell ocs__grid-cell--accent">
+        <strong>Account security</strong>
+        <p>Member profiles and leaderboards require basic protections for authentication and stored data before wider rollout.</p>
     </div>
 </div>
 

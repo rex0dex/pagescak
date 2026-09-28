@@ -8,13 +8,14 @@ description: >
   with a searchable bookstore catalog, events, newsletters, volunteer and
   donation pathways, community history, and library-themed games.
 categories: [Capstone]
+tags: [poway-library, books, events, volunteering, csp]
 permalink: /capstone/poway-library-2026-27/
 ---
 
 > **Student capstone · In development.** This project continues the 2025–26 Friends of the Poway Library prototype. It is a student-built concept and is not the official Friends of the Poway Library or San Diego County Library website.
 
 <div class="ocs__grid ocs__grid--standard cols-2">
-    <div class="ocs__grid-cell ocs__grid-cell--header">Friends of the Poway Library · 2026–2027</div>
+    <div class="ocs__grid-cell ocs__grid-cell--header">Friends of the Poway Library · 2026–27</div>
 
     <div class="ocs__grid-cell ocs__grid-cell--accent">
         <strong>One useful home for the library community</strong>
@@ -61,7 +62,7 @@ permalink: /capstone/poway-library-2026-27/
 
     <div class="ocs__grid-cell">
         <strong>03 · Participate and support</strong>
-        <p>Make volunteer opportunities, contact information, and the planned donation flow easier to find and use.</p>
+        <p>Surface volunteer opportunities, contact information, and the planned donation flow so they are easy to find and use.</p>
     </div>
 
     <div class="ocs__grid-cell ocs__grid-cell--accent">
@@ -182,6 +183,64 @@ permalink: /capstone/poway-library-2026-27/
 
 ---
 
+## Milestones & goals
+
+> Early-quarter priorities for picking up the 2025–26 prototype and moving it toward a stable release.
+
+<div class="ocs__grid ocs__grid--card">
+    <div class="ocs__grid-cell ocs__grid-cell--accent">
+        <strong>Milestone 1 · Onboarding</strong>
+        <p>Stand up the inherited frontend and backend locally, audit existing features, and log gaps against the Friends of the Poway Library's priorities.</p>
+    </div>
+
+    <div class="ocs__grid-cell">
+        <strong>Milestone 2 · Core reliability</strong>
+        <p>Stabilize the bookstore catalog search, events calendar, and newsletter archive so they work consistently across devices.</p>
+    </div>
+
+    <div class="ocs__grid-cell ocs__grid-cell--accent">
+        <strong>Milestone 3 · Support pathways</strong>
+        <p>Complete the donation flow, refine the volunteer signup process, and confirm contact tools reach the right organizers.</p>
+    </div>
+
+    <div class="ocs__grid-cell">
+        <strong>Milestone 4 · Polish and handoff</strong>
+        <p>Finish outstanding games and profile features, document the codebase, and prepare the project for the next student team.</p>
+    </div>
+</div>
+
+<br>
+
+---
+
+## Risks & open questions
+
+<div class="ocs__grid ocs__grid--card">
+    <div class="ocs__grid-cell">
+        <strong>Donation processing</strong>
+        <p>The donation flow needs a decision on a payment processor and how the nonprofit wants transactions reconciled before it can go live.</p>
+    </div>
+
+    <div class="ocs__grid-cell ocs__grid-cell--accent">
+        <strong>Catalog data freshness</strong>
+        <p>The bookstore catalog is only useful if inventory stays current — the team needs a sustainable update process the Friends volunteers can maintain.</p>
+    </div>
+
+    <div class="ocs__grid-cell">
+        <strong>Inherited code quality</strong>
+        <p>Parts of the 2025–26 prototype may need refactoring before new features are added; scope and priorities are still being confirmed.</p>
+    </div>
+
+    <div class="ocs__grid-cell ocs__grid-cell--accent">
+        <strong>Account security</strong>
+        <p>Member profiles and leaderboards require basic protections for authentication and stored data before wider rollout.</p>
+    </div>
+</div>
+
+<br>
+
+---
+
 ## Project handoff
 
 > The 2026–27 capstone starts from the work and documentation created by the previous student team.
@@ -221,4 +280,26 @@ permalink: /capstone/poway-library-2026-27/
     <a class="ocs__btn large iridescent" href="https://github.com/Boolean-Boyz/bb-pages" target="_blank" rel="noreferrer noopener">View Frontend Repository</a>
     <a class="ocs__btn large iridescent" href="https://github.com/Boolean-Boyz/bb-flask" target="_blank" rel="noreferrer noopener">View Backend Repository</a>
     <a class="ocs__btn large iridescent" href="{{ '/capstone/poway-library/' | relative_url }}">View 2025–26 Project Page</a>
+</div>
+
+<br>
+
+---
+
+## Get involved
+
+> This capstone is a student concept, not an official channel — reach the real organization directly for events, volunteering, or donations today.
+
+<div class="ocs__grid ocs__grid--standard cols-2">
+    <div class="ocs__grid-cell ocs__grid-cell--header">Connect with the Friends of the Poway Library</div>
+
+    <div class="ocs__grid-cell ocs__grid-cell--accent">
+        <strong>Visit or volunteer now</strong>
+        <p>Until the online donation and volunteer flows ship, the fastest way to help is through the Friends' own site and the Poway branch library.</p>
+    </div>
+
+    <div class="ocs__grid-cell">
+        <strong>Follow this capstone</strong>
+        <p>Check back on this page for milestone updates, or watch the <a href="https://github.com/Boolean-Boyz/bb-pages" target="_blank" rel="noreferrer noopener">frontend</a> and <a href="https://github.com/Boolean-Boyz/bb-flask" target="_blank" rel="noreferrer noopener">backend</a> repositories for progress.</p>
+    </div>
 </div>
